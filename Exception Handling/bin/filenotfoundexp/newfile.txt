@@ -1,0 +1,4 @@
+ file stores
+D:\\Java work space\\Exception Handling\\src\\filenotfoundexp\\newfile.txt
+
+ i all how r u 
