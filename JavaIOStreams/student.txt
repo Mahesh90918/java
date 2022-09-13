@@ -1,0 +1,5 @@
+student [id=1, name=mahesh, fee=25000.0, addr=address [location=paloknda0, pincode=532445, state=andhra pradesh], enm=MALE]
+student [id=2, name=raja, fee=25000.0, addr=address [location=paloknda1, pincode=532435, state=uttar pradesh], enm=FEMALE]
+student [id=3, name=ravi, fee=25000.0, addr=address [location=paloknda2, pincode=532445, state=telangana], enm=MALE]
+student [id=4, name=rupa, fee=25000.0, addr=address [location=paloknda3, pincode=532445, state=manipur ], enm=FEMALE]
+student [id=4, name=abcd, fee=25000.0, addr=address [location=paloknda0, pincode=532445, state=andhra pradesh], enm=MALE]

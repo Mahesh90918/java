@@ -1,0 +1,32 @@
+A1000
+fileWriter createsA1000
+fileWriter createsA1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A1000
+fileWriter creates1000
+A101
+fileWriter createsA101
+fileWriter createsA101
+fileWriter creates101
+A101
+fileWriter creates101
+A101
+fileWriter creates101
+A101
+fileWriter creates101
+A101
+fileWriter creates101
+A101
+fileWriter creates101
+A101
+fileWriter creates101

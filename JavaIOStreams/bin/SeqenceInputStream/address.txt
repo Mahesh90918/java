@@ -1,0 +1,3 @@
+address [location=paloknda0, pincode=532445, state=andhra pradesh]
+address [location=paloknda1, pincode=532435, state=uttar pradesh]
+address [location=paloknda2, pincode=532445, state=telangana]
